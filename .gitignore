@@ -1,0 +1,21 @@
+# Simulation generated files
+a.out
+xcelium.d/
+cov_work/
+
+# Coverage reports
+bmu_coverage_report/
+bmu_functional_coverage_report/
+bmu_final_functional_coverage_report/
+
+# Regression outputs
+regression_logs/
+
+# Logs / tool-generated files
+*.log
+*.history
+*.key
+
+# Generic temporary files
+*.tmp
+*.bak
